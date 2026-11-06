@@ -25,3 +25,9 @@
 受け取るもの:1件の予定を指定の文字列形式に変換する  
 返すもの: return f"{time_str} {title} {loc_str}"py schedule.py 2026-10-02  
 役割: f 文字列を使って、時刻・タイトル・場所の変数を一つの文字列にまとめて出力する
+
+## 第3回 午前
+1ページ開いたときの往復の数（およそ）: 6 回
+curl -I の1行目: HTTP/2 200
+無いページの1行目: HTTP/2 404
+API の full_name: y-ono2026/reskilling-practice pushed_at: T16:38:40Z
